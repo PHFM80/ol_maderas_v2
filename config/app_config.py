@@ -1,0 +1,15 @@
+# config\app_config.py
+
+APP_NAME = "Mi App de Gestión"
+APP_LOGO_PATH = "assets/app/Logo.png"
+
+WINDOW_WIDTH = 1000   # Ancho
+WINDOW_HEIGHT = 1020  # Alto
+H = WINDOW_HEIGHT * 0.12
+ME = WINDOW_HEIGHT * 0.07
+M = WINDOW_HEIGHT * 0.59
+F = WINDOW_HEIGHT * 0.09
+HEADER_HEIGHT = H
+MENU_HEIGHT = ME
+MAIN_HEIGHT = M
+FOOTER_HEIGHT = F
